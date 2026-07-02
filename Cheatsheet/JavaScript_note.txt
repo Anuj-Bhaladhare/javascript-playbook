@@ -1,0 +1,48 @@
+=====> SYLLABUS - 1 <=====
+❌ Module 1 : Introduction
+❌ Module 2 : Variables
+❌ Module 3 : Data Types
+❌ Module 4 : Operators
+❌ Module 5 : Control Flow
+❌ Module 6 : Functions
+❌ Module 7 : Objects
+❌ Module 8 : Arrays
+❌ Module 9 : Strings
+❌ Module 10 : DOM
+❌ Module 11 : ES6+
+❌ Module 12 : Asynchronous JavaScript
+❌ Module 13 : OOP
+❌ Module 14 : Advanced JavaScript
+❌ Module 15 : Error Handling
+❌ Module 16 : Browser APIs
+❌ Module 17 : Modern JavaScript Tooling
+
+
+
+=====> SYLLABUS - 2 <=====
+❌ Module 1: Introduction to JavaScript
+❌ Module 2: Variables & Data Types
+❌ Module 3: Operators & Expressions
+❌ Module 4: Control Flow
+❌ Module 5: Functions
+❌ Module 6: Scope & Closures
+❌ Module Pattern
+❌ Module 7: Objects
+❌ Module 8: Arrays
+❌ Module 9: Strings
+❌ Module 10: Numbers, Math & Dates
+❌ Module 11: ES6+ Features
+❌ Module 12: DOM Manipulation
+❌ Module 13: Events
+❌ Module 14: Asynchronous JavaScript
+❌ Module 15: Fetch API & Browser APIs
+❌ Module 16: Error Handling & Debugging
+❌ Module 17: Object-Oriented Programming (OOP)
+❌ Module 18: Advanced JavaScript
+❌ Module 19: Modules & Package Management
+❌ Module 20: Modern JavaScript Tooling
+❌ Module 21: Design Patterns & Best Practices
+❌ Module Pattern
+❌ Module 22: Testing (Introduction)
+❌ Module 23: JavaScript Interview Preparation
+❌ Module 24: Hands-on Projects
